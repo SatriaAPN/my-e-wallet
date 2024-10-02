@@ -5,6 +5,8 @@ access the documentation [here](https://documenter.getpostman.com/view/16000432/
 
 ## entity-relationship-diagram
 <a href="https://drive.google.com/file/d/1mr5Td9mu9GFAAel0iq4SbQ9U4x4i9QOC/view?usp=sharing" >ERD Link</a>
+<img src="https://drive.google.com/file/d/1mr5Td9mu9GFAAel0iq4SbQ9U4x4i9QOC/view?usp=sharing">
+
 
 ## Running the apps
 - copy and populate the `env.example`
