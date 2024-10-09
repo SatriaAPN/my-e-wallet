@@ -14,7 +14,7 @@ RUN go mod download
 COPY . .
 
 # Build the Go app
-RUN go build -o backend .
+RUN go build -o backend ./cmd/rest/
 
 # Final stage: Run the binary
 FROM alpine:3.18

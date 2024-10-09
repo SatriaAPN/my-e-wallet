@@ -11,6 +11,7 @@ services:
       - DB_USER=myuser
       - DB_PASSWORD=mypassword
       - DB_NAME=mydatabase
+      - DB_SSLMODE=disable
     depends_on:
       - db
 
